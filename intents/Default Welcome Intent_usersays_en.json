@@ -1,0 +1,62 @@
+[
+  {
+    "id": "85cff11a-f55a-4f6e-a119-5ce4f407e322",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1801ef1-64e4-48bf-9011-8f86b3f2c913",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a49e875-80bf-4967-a5bf-593cfe81481a",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba1f247f-c98f-4bc3-9879-00f273b63b0c",
+    "data": [
+      {
+        "text": "Hello OnlineEats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10f9d53b-7903-4a62-95fb-46122ba1e8ec",
+    "data": [
+      {
+        "text": "Hey there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

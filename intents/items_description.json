@@ -1,0 +1,78 @@
+{
+  "id": "e8a2adec-5a9d-4183-b5c3-775dda33fe00",
+  "name": "items_description",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "873688c7-b2b1-4a23-8486-1838e4fba72f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "quantity1",
+          "value": "$quantity1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3f9eee4d-3d19-462d-b968-e57caa1ec098",
+          "required": false,
+          "dataType": "@food_items_entity",
+          "name": "food_items_entity1",
+          "value": "$food_items_entity1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2c2aa715-b9dd-41c7-843b-b45035012b8a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "quantity2",
+          "value": "$quantity2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "da0f36c5-698a-485b-b768-027b9ab11d82",
+          "required": false,
+          "dataType": "@food_items_entity",
+          "name": "food_items_entity2",
+          "value": "$food_items_entity2",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Done. Your final amount is 256 and your order is placed for $quantity1 $food_items_entity1 and $quantity2 $food_items_entity2"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

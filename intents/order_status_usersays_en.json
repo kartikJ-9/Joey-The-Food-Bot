@@ -1,0 +1,98 @@
+[
+  {
+    "id": "af21e111-bdfd-44d3-9d07-8c3b969ae10b",
+    "data": [
+      {
+        "text": "Can you please help me know my food order status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "77c489f4-5dff-4c09-a93f-d6afa0ca797d",
+    "data": [
+      {
+        "text": "where is my order ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "559d2b76-5d6c-4062-8963-575c3461713e",
+    "data": [
+      {
+        "text": "Tell me where is my food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3f75f60-41df-4bbb-abdd-b4981ae74ff6",
+    "data": [
+      {
+        "text": "What is the status of my food order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94d4599f-7693-4119-9827-cb06d6bd03dc",
+    "data": [
+      {
+        "text": "Can you please tell me where is my food ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7661536-8caf-4488-adff-a4e3d6bddbe1",
+    "data": [
+      {
+        "text": "Hello, when will I receive my food order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93c3c531-4551-4049-a1dc-117817163b4a",
+    "data": [
+      {
+        "text": "where is my food ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88d972c0-32f0-4816-8723-26d9707fecb9",
+    "data": [
+      {
+        "text": "I haven\u0027t received my order yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

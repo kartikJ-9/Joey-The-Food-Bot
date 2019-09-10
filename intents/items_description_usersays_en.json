@@ -1,0 +1,634 @@
+[
+  {
+    "id": "31e157d1-11b1-4380-9ce2-b24c3c6da923",
+    "data": [
+      {
+        "text": "One",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken dumpling",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "spring rolls",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0fb6c5c-7331-4760-86d9-d697873b4be8",
+    "data": [
+      {
+        "text": "1",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Butter Chicken",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "14",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "naans",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30e4069d-5ad1-4598-ba70-c08b7aa06ac9",
+    "data": [
+      {
+        "text": "I just need ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " egg ",
+        "userDefined": false
+      },
+      {
+        "text": "chowmein",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fd95ae6-d2fc-4a12-96f7-b1124065c23f",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "falafel",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Fattoush",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e63f6f2b-b0cf-48ab-a55d-372e3e58c260",
+    "data": [
+      {
+        "text": "one",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "butter chicken",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chapatis",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45d07ba2-1b65-4cbd-b1bd-3c9bc0867837",
+    "data": [
+      {
+        "text": "one",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken wrap",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "veg wraps",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b996da8-5877-4509-b9a4-ef81f7885e43",
+    "data": [
+      {
+        "text": "I would like to have ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "biryani",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef0321a0-74b8-4a2b-88bd-c984e8c1873d",
+    "data": [
+      {
+        "text": "Three",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "noodles",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "veg soup",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7634fb6a-bff4-47f3-95e3-be718c25d8fa",
+    "data": [
+      {
+        "text": "1",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "spring roll",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "swarama",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "590dbf73-e6bf-4870-a519-51126b6b8908",
+    "data": [
+      {
+        "text": "Please give me ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "veg wraps",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "soft drinks",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85bdf2a6-028a-4450-8981-78a1343a8719",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "falafel",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      },
+      {
+        "text": " sandwich and ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "soft drink",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7e80b4e-23a3-4d9d-b686-3d51c8d2b092",
+    "data": [
+      {
+        "text": "1",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Butter Chicken",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "naans",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f79c0e0e-2f27-4fc4-a51b-04b5dd464cbe",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "falafel",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virgin mojito",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e82851c3-e157-4cde-b87e-6478befe5a4b",
+    "data": [
+      {
+        "text": "Get me ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "quantity1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "milkshake",
+        "alias": "food_items_entity1",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "quantity2",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chickenwrap",
+        "alias": "food_items_entity2",
+        "meta": "@food_items_entity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

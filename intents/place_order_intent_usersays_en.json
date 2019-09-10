@@ -1,0 +1,146 @@
+[
+  {
+    "id": "0e00846c-e125-4b29-8323-75b7a808b50c",
+    "data": [
+      {
+        "text": "I want to place an order for chinese food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abed0694-014e-4846-a017-590d52020558",
+    "data": [
+      {
+        "text": "I want to place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf806893-67ca-4ee1-b651-ca44cfef215c",
+    "data": [
+      {
+        "text": "I am looking to order Indian food.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5763e047-cf41-4b48-8c69-60867d2c7898",
+    "data": [
+      {
+        "text": "I want to order food asap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74a05f01-c380-4c48-a4d3-4173d5bd80cf",
+    "data": [
+      {
+        "text": "I want food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "281533fa-016e-427a-aaf0-07a58e4d7380",
+    "data": [
+      {
+        "text": "I am looking to order thai food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "004df618-d79c-4290-90d1-d55cc608582d",
+    "data": [
+      {
+        "text": "I want to order food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2819d78d-7453-49b5-843a-a6ffe91271d9",
+    "data": [
+      {
+        "text": "Take my order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a64f2353-c25a-4803-ad51-1db4d8c79af8",
+    "data": [
+      {
+        "text": "I am looking to order chinese food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a236bd8-9062-430e-a035-500fb29800e7",
+    "data": [
+      {
+        "text": "Can you please take my order for food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6efaef36-a803-4d80-989d-6bc7d210d693",
+    "data": [
+      {
+        "text": "Would your please help me to order food ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ec3fb9f-54e2-479b-b2c4-a85db6446c2d",
+    "data": [
+      {
+        "text": "Can you please order food for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
